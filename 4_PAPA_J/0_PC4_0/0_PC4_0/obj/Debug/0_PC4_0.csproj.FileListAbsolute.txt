@@ -1,0 +1,6 @@
+F:\ETAPA 0\0_PC4_0\0_PC4_0\bin\Debug\0_PC4_0.exe.config
+F:\ETAPA 0\0_PC4_0\0_PC4_0\bin\Debug\0_PC4_0.exe
+F:\ETAPA 0\0_PC4_0\0_PC4_0\bin\Debug\0_PC4_0.pdb
+F:\ETAPA 0\0_PC4_0\0_PC4_0\obj\Debug\0_PC4_0.csprojResolveAssemblyReference.cache
+F:\ETAPA 0\0_PC4_0\0_PC4_0\obj\Debug\0_PC4_0.exe
+F:\ETAPA 0\0_PC4_0\0_PC4_0\obj\Debug\0_PC4_0.pdb

@@ -1,0 +1,5 @@
+F:\ETAPA 0\0_PC4_3\0_PC4_3\bin\Debug\0_PC4_3.exe.config
+F:\ETAPA 0\0_PC4_3\0_PC4_3\bin\Debug\0_PC4_3.exe
+F:\ETAPA 0\0_PC4_3\0_PC4_3\bin\Debug\0_PC4_3.pdb
+F:\ETAPA 0\0_PC4_3\0_PC4_3\obj\Debug\0_PC4_3.exe
+F:\ETAPA 0\0_PC4_3\0_PC4_3\obj\Debug\0_PC4_3.pdb
