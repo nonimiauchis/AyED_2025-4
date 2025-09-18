@@ -1,0 +1,43 @@
+El usuario debe ingresar si tiene comida (sí o no), un refugio (sí o no) y un bate (sí o no). El programa debe decir si sobrevive o no.
+
+Si tiene comida, refugio y un bate → sobrevive
+
+
+Si le falta algo → no sobrevive
+
+Codigo
+
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _1_PC6_5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tiene comida?");
+            string comida = (Console.ReadLine().ToUpper());
+            Console.WriteLine("Tiene refugio?");
+            string refugio = Console.ReadLine().ToUpper();
+            Console.WriteLine("Tiene un bate?");
+            string bate = Console.ReadLine().ToUpper();
+
+            if (comida == "si".ToUpper() && refugio == "si".ToUpper() && bate == "si".ToUpper())
+            {
+                Console.WriteLine("Muy bien, sobrevivis");
+            }
+            else
+            {
+                Console.WriteLine("No sobrevivis");
+            }
+            Console.ReadKey();
+        }
+
+       
+        
+    }
+}
