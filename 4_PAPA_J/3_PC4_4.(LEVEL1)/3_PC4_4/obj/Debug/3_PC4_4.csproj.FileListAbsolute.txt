@@ -1,0 +1,6 @@
+C:\Users\Martina\Desktop\tps c++\3_PC4_4\3_PC4_4\bin\Debug\3_PC4_4.exe.config
+C:\Users\Martina\Desktop\tps c++\3_PC4_4\3_PC4_4\obj\Debug\3_PC4_4.csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\tps c++\3_PC4_4\3_PC4_4\bin\Debug\3_PC4_4.exe
+C:\Users\Martina\Desktop\tps c++\3_PC4_4\3_PC4_4\bin\Debug\3_PC4_4.pdb
+C:\Users\Martina\Desktop\tps c++\3_PC4_4\3_PC4_4\obj\Debug\3_PC4_4.exe
+C:\Users\Martina\Desktop\tps c++\3_PC4_4\3_PC4_4\obj\Debug\3_PC4_4.pdb
