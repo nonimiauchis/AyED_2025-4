@@ -1,0 +1,5 @@
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL3)\3_PC4_4.(LEVEL3)\bin\Debug\3_PC4_4.(LEVEL3).exe.config
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL3)\3_PC4_4.(LEVEL3)\bin\Debug\3_PC4_4.(LEVEL3).exe
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL3)\3_PC4_4.(LEVEL3)\bin\Debug\3_PC4_4.(LEVEL3).pdb
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL3)\3_PC4_4.(LEVEL3)\obj\Debug\3_PC4_4.(LEVEL3).exe
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL3)\3_PC4_4.(LEVEL3)\obj\Debug\3_PC4_4.(LEVEL3).pdb
