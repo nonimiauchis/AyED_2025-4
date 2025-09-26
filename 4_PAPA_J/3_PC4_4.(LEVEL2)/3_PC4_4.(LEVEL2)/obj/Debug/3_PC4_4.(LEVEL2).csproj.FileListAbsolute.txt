@@ -1,0 +1,6 @@
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL2)\3_PC4_4.(LEVEL2)\bin\Debug\3_PC4_4.(LEVEL2).exe.config
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL2)\3_PC4_4.(LEVEL2)\obj\Debug\3_PC4_4.(LEVEL2).csprojResolveAssemblyReference.cache
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL2)\3_PC4_4.(LEVEL2)\bin\Debug\3_PC4_4.(LEVEL2).exe
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL2)\3_PC4_4.(LEVEL2)\bin\Debug\3_PC4_4.(LEVEL2).pdb
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL2)\3_PC4_4.(LEVEL2)\obj\Debug\3_PC4_4.(LEVEL2).exe
+C:\Users\Martina\Desktop\tps c++\3_PC4_4.(LEVEL2)\3_PC4_4.(LEVEL2)\obj\Debug\3_PC4_4.(LEVEL2).pdb
